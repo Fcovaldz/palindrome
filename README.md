@@ -5,6 +5,7 @@ Un palíndromo es una palabra, frase, número u otra secuencia de caracteres que
 Dada una cadena, escriba Sí si es un palíndromo, escriba No en caso contrario.
 
 francisco
+
 Sample Output
 
 NO es Palindromo
